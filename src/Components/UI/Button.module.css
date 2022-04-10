@@ -1,0 +1,13 @@
+.button {
+    border-radius: 10px;
+    background-color: #E7FBBE;
+    border: 1px solid #b3f62c;
+    cursor: pointer;
+    font-family: 'Creepster', cursive;
+    font-size: 2.5rem;
+    padding: 5px 7px;
+}
+
+.button:focus{
+    background-color: #E7FBBE;
+}
